@@ -1,0 +1,7 @@
+# remove folders from tracking
+_Enrichment/*
+_Result_old/*
+_Scripts_old/*
+_Statistic_old/*
+input_spectra/*
+results_matfiles/*

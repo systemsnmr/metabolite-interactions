@@ -1,0 +1,9 @@
+% Example run
+
+% generate data
+main('.\',2,0); % directory, compute relaxation factor, plot single peaks = off
+
+% analzye data and generate plots
+stats = Generate_Interaction_Map(0,0.1825,2,'e',1)
+
+
